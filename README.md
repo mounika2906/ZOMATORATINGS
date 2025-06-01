@@ -98,7 +98,7 @@ This project successfully built a robust ML model to predict restaurant ratings 
 
 
 
-###Software and Tools Requirements
+## Software and Tools Requirements
 1. [GithubAccount](https://github.com/)
 2. [VsCodeIde](https://code.visualstudio.com/)
 3. [HerokuAccount](https://www.heroku.com/)
