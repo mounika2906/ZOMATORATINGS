@@ -61,7 +61,9 @@ The dataset contains ~51,000 restaurant records from Bangalore with features lik
 **Extra Trees Regressor Metrics**  
 - MAE: 0.2457  
 - MSE: 0.1062  
-- RMSE: 0.3260  
+- RMSE: 0.3260
+
+  ![alt image](https://github.com/mounika2906/ZOMATORATINGS/blob/cdb8ea80328995da6a003fbf3b9975fff296cb81/zomato.png)
 
 **Best Model: Extra Trees Regressor**
 
